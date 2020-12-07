@@ -9,7 +9,10 @@ def wineParser(wine_name):
     items = []
     url = f"https://www.wine-searcher.com/find/{wine_name}"
     time.sleep(2)
-    driver = webdriver.Chrome('./chromedriver')
+    # options = webdriver.ChromeOptions()
+    # options.add_argument("user-data-dir=/Users/_akhmetkarimov_/Library/Application Support/Google/Chrome/")
+    # driver = webdriver.Chrome(executable_path='./chromedriver', chrome_options=options)
+    driver = webdriver.Chrome(executable_path='./chromedriver')
     driver.get(url)
     cards = driver.find_elements_by_css_selector('.tab-prices-content div.offer-card ')
     if not cards:
