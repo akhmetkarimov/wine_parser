@@ -20,7 +20,13 @@ cd aspose_parser
 ### Installation
 ---
 ```bash
-# Install server dependencies:
+# create virtual environment:
+virtualenv env
+
+#activate env
+source env/bin/activate
+
+# Install dependencies:
 pip3 install -r requirements.txt
 ```
 ## Running Locally
