@@ -1,5 +1,10 @@
 # aspose_parser
 
+### Description
+---
+
+This is a console application designed to display links to sites taken from the site wine-searcher.com to get information, the user must use the keyboard to enter the name of product by which they want to find suppliers, and the app displays unique suppliers sites by this name
+
 ---
 ###  Requirements
 ---
