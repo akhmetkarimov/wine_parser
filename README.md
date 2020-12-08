@@ -5,7 +5,7 @@
 
 This is a console application designed to display links to sites taken from the site wine-searcher.com to get information, the user must use the keyboard to enter the name of product by which they want to find suppliers, and the app displays unique suppliers sites by this name
 
-![Example](https://github.com/akhmetkarimov/aspose_parser/blob/master/example.png)
+![Example](https://github.com/akhmetkarimov/wine_parser/blob/master/example.png)
 
 ---
 ###  Requirements
@@ -19,8 +19,8 @@ Clone the repo and make it yours:
 
 
 ```bash
-git clone https://github.com/akhmetkarimov/aspose_parser.git
-cd aspose_parser
+git clone https://github.com/akhmetkarimov/wine_parser.git
+cd wine_parser
 ```
     
 
