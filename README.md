@@ -4,7 +4,8 @@
 ---
 
 This is a console application designed to display links to sites taken from the site wine-searcher.com to get information, the user must use the keyboard to enter the name of product by which they want to find suppliers, and the app displays unique suppliers sites by this name
-![Example](https://drive.google.com/file/d/14_y1Qyi46u9WyStsbL6Ld2UMJTno_nfJ/view?usp=sharing)
+
+![Example](Screen Shot 2020-12-08 at 16.41.25.png)
 
 ---
 ###  Requirements
